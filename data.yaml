@@ -1,0 +1,9 @@
+path: .
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: pothole
+  1: cracks
+  2: open_manhole
